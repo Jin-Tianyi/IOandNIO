@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a24f856-6ecc-4611-8340-71c3816ff601" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="191" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jtfjOPdWaryU2HtvDDi3nGlFF5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaClassFindUsagesOptions.isDerivedClasses" value="true" />
+    <property name="JavaClassFindUsagesOptions.isImplementingClasses" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tyjin\IdeaProjects\IOandNIO" />
+      <recent name="C:\Users\tyjin\IdeaProjects\IOandNIO\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IO.FileChannelNIO">
+    <configuration name="IO.ByteArrayOutputStreamIO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IOandNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jty.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jty.io" />
+      <option name="MAIN_CLASS_NAME" value="com.jty.io.IO" />
+      <option name="METHOD_NAME" value="ByteArrayOutputStreamIO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO.FileChannelNIO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IOandNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jty.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jty.io" />
+      <option name="MAIN_CLASS_NAME" value="com.jty.io.IO" />
+      <option name="METHOD_NAME" value="FileChannelNIO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO.FileWriterAndReaderIO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IOandNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jty.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jty.io" />
+      <option name="MAIN_CLASS_NAME" value="com.jty.io.IO" />
+      <option name="METHOD_NAME" value="FileWriterAndReaderIO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO.InputStreamWriterAndReaderIO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IOandNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jty.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jty.io" />
+      <option name="MAIN_CLASS_NAME" value="com.jty.io.IO" />
+      <option name="METHOD_NAME" value="InputStreamWriterAndReaderIO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO.RandomAccessFileIO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IOandNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jty.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jty.io" />
+      <option name="MAIN_CLASS_NAME" value="com.jty.io.IO" />
+      <option name="METHOD_NAME" value="RandomAccessFileIO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IO.FileChannelNIO" />
+        <item itemvalue="JUnit.IO.RandomAccessFileIO" />
+        <item itemvalue="JUnit.IO.ByteArrayOutputStreamIO" />
+        <item itemvalue="JUnit.IO.FileWriterAndReaderIO" />
+        <item itemvalue="JUnit.IO.InputStreamWriterAndReaderIO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a24f856-6ecc-4611-8340-71c3816ff601" name="Default Changelist" comment="" />
+      <created>1604628442265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604628442265</updated>
+      <workItem from="1604628448082" duration="110455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="202" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604918440299">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state x="202" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.823@0.0.1463.823" timestamp="1604918440299" />
+    <state x="494" y="198" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605099362018">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state x="494" y="198" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1463.823@0.0.1463.823" timestamp="1605099362018" />
+    <state x="553" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1605257596723">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state x="553" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1463.823@0.0.1463.823" timestamp="1605257596723" />
+    <state x="889" y="93" key="#xdebugger.evaluate" timestamp="1605260238591">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state x="889" y="93" key="#xdebugger.evaluate/0.0.1463.823@0.0.1463.823" timestamp="1605260238591" />
+    <state x="503" y="293" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604909889713">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state x="503" y="293" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1463.823@0.0.1463.823" timestamp="1604909889713" />
+    <state width="441" height="438" key="DebuggerActiveHint" timestamp="1605260553294">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state width="441" height="438" key="DebuggerActiveHint/0.0.1463.823@0.0.1463.823" timestamp="1605260553294" />
+    <state width="1348" height="105" key="GridCell.Tab.0.bottom" timestamp="1605261662254">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state width="1348" height="105" key="GridCell.Tab.0.bottom/0.0.1463.823@0.0.1463.823" timestamp="1605261662254" />
+    <state width="1348" height="105" key="GridCell.Tab.0.center" timestamp="1605261662254">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state width="1348" height="105" key="GridCell.Tab.0.center/0.0.1463.823@0.0.1463.823" timestamp="1605261662254" />
+    <state width="1348" height="105" key="GridCell.Tab.0.left" timestamp="1605261662254">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state width="1348" height="105" key="GridCell.Tab.0.left/0.0.1463.823@0.0.1463.823" timestamp="1605261662254" />
+    <state width="1348" height="105" key="GridCell.Tab.0.right" timestamp="1605261662254">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state width="1348" height="105" key="GridCell.Tab.0.right/0.0.1463.823@0.0.1463.823" timestamp="1605261662254" />
+    <state width="1348" height="130" key="GridCell.Tab.1.bottom" timestamp="1605261662397">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state width="1348" height="130" key="GridCell.Tab.1.bottom/0.0.1463.823@0.0.1463.823" timestamp="1605261662397" />
+    <state width="1348" height="130" key="GridCell.Tab.1.center" timestamp="1605261662397">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state width="1348" height="130" key="GridCell.Tab.1.center/0.0.1463.823@0.0.1463.823" timestamp="1605261662397" />
+    <state width="1348" height="130" key="GridCell.Tab.1.left" timestamp="1605261662397">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state width="1348" height="130" key="GridCell.Tab.1.left/0.0.1463.823@0.0.1463.823" timestamp="1605261662397" />
+    <state width="1348" height="130" key="GridCell.Tab.1.right" timestamp="1605261662397">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state width="1348" height="130" key="GridCell.Tab.1.right/0.0.1463.823@0.0.1463.823" timestamp="1605261662397" />
+    <state x="249" y="37" key="SettingsEditor" timestamp="1604646632308">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state x="249" y="37" key="SettingsEditor/0.0.1463.823@0.0.1463.823" timestamp="1604646632308" />
+    <state x="299" y="131" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605260041726">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state x="299" y="131" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1463.823@0.0.1463.823" timestamp="1605260041726" />
+    <state x="478" y="160" key="extract.method.dialog" timestamp="1604810306080">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state x="478" y="160" key="extract.method.dialog/0.0.1463.823@0.0.1463.823" timestamp="1604810306080" />
+    <state x="404" y="180" key="run.anything.popup" timestamp="1605085785844">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state x="404" y="180" key="run.anything.popup/0.0.1463.823@0.0.1463.823" timestamp="1605085785844" />
+    <state x="410" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1605248596917">
+      <screen x="0" y="0" width="1463" height="823" />
+    </state>
+    <state x="410" y="144" width="672" height="678" key="search.everywhere.popup/0.0.1463.823@0.0.1463.823" timestamp="1605248596917" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jrt://D:/Development/IntelliJ IDEA 2019.3.1/jbr!/java.base/java/nio/channels/FileChannel.class</url>
+          <line>32</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IOandNIO$IO_PipedStreamIO__1_.ic" NAME="IO.PipedStreamIO (1) Coverage Results" MODIFIED="1604919242523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jty.io.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/IOandNIO$IO_DataInputStreamIO.ic" NAME="IO.DataInputStreamIO Coverage Results" MODIFIED="1604806293526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jty.io.*</FILTER>
+    </SUITE>
+  </component>
+</project>
